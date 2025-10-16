@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LibraryJDBCProject (Console)
 
 ## What's included
@@ -81,3 +82,7 @@ The safest approach is to download the connector locally and follow the `build` 
 Enjoy! If you want, I can now:
 - Provide a GUI (Swing) version.
 - Try to compile and produce a runnable jar here (I will need the connector jar uploaded by you).
+=======
+# Library-Management-System-JDBC-Project
+A simple Java console-based Library Management System using JDBC and MySQL.
+>>>>>>> 5f4ac7f0754169c0df5bae7aa7184d5b4244ad6c

@@ -1,6 +1,12 @@
 # Java
 *.class
 *.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
 /out/
 /dist/
 /target/
@@ -18,3 +24,13 @@ Thumbs.db
 
 # Libraries
 lib/mysql-connector-java.jar
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# virtual machine crash logs
+hs_err_pid*
+replay_pid*
