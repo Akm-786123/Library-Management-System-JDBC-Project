@@ -1,0 +1,20 @@
+# Java
+*.class
+*.jar
+/out/
+/dist/
+/target/
+/bin/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Libraries
+lib/mysql-connector-java.jar
